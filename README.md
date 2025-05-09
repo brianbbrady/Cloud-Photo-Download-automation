@@ -1,8 +1,3 @@
-Here's your complete `README.md` file, tailored for your **Photo Backup Automation Toolkit** repo or download package:
-
----
-
-```markdown
 # 📸 Photo Backup Automation Toolkit
 
 A simple, cross-platform script collection to safely and efficiently back up your cloud-based photo libraries to an external hard drive.
